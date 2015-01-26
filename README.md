@@ -173,7 +173,7 @@ That's it! Now all you have to do is build your XCode project and run your game 
         3. square-otto-1.3.2.jar
 
     - from `extensions/cocos2dx-store/build/android`
-        1. SoomlaAndroidStore.jar
+        1. AndroidStore.jar
         2. Cocos2dxAndroidStore.jar
 
 1. In your game's main Cocos2dxActivity, call the following in the `onCreateView` method:
